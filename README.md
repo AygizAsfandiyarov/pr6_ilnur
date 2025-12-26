@@ -24,6 +24,7 @@ sops --version
 ```
 <img width="604" height="86" alt="image" src="https://github.com/user-attachments/assets/1230415f-2f89-4b26-a190-5d33471a63f7" />
 ### Создание рабочей директории
+
 ```bash
 $ mkdir -p ~/sops-production-demo
 $ cd ~/sops-production-demo
